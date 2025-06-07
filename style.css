@@ -109,9 +109,9 @@ p{
     content: '';
     display: inline-block;
     position: relative;
-    top: -11px;
-    left: -4px;
-    transform: rotateZ(26deg);
+    top: -13px;
+    left: -5px;
+    transform: rotateZ(45deg);
     width:11px;
     height: 2px;
     background-color: white;
@@ -121,8 +121,8 @@ p{
     display: inline-block;
     position: relative;
     top: -32px;
-    left: -4px;
-    transform: rotateZ(-64deg);
+    left: -5px;
+    transform: rotateZ(-45deg);
     width:11px;
     height: 2px;
     background-color: white;
